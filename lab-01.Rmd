@@ -1,7 +1,7 @@
 ---
 title: "Lab 01 - UK Attractions"
-author: "INSERT NAME HERE"
-date: "`r Sys.Date()`"
+author: "George Hudson-Lord"
+date: "`r Sys.Date(26/09/2025)`"
 output: html_document
 ---
 
